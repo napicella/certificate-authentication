@@ -36,4 +36,5 @@ ssh-keygen -s ca_user_key -I ec2 ssh_user_key
 which generates `ssh_user_key-cert.pub`
 
 # Resources
-https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/6/html/deployment_guide/sec-creating_ssh_certificates_for_authenticating_users
+* https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/6/html/deployment_guide/sec-creating_ssh_certificates_for_authenticating_users
+* BLESS
